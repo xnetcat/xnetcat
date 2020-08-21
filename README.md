@@ -17,6 +17,6 @@ Hi, I'm Jakub, a passionate self-taught developer from Poland.
 -  **What I like :** Music, League Of Legends, Memez
 
 ### Reach me:
-- Discord: netcat#5194
+- Discord: netcat#6969
 - Email: j4kub.kko7@gmail.com
 - Twitter: netcat__
