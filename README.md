@@ -13,7 +13,6 @@ Hi, I'm Jakub, a passionate self-taught developer from Poland.
 -  **Languages :** JavaScript, Python, Java, HTML/CSS
 -  **Technologies :** React, Preact, MongoDB, Express, Flask
 -  **I'm interested in :** Machine Learning, GameDev, Reverse Engineering
--  **I'm currently working on :** League Client Enhancer
 -  **What I like :** Music, League Of Legends, Memez
 
 ### Reach me:
