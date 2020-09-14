@@ -9,8 +9,8 @@ Hi, I'm Jakub, a passionate self-taught developer from Poland.
 
 ### About
 
--  **Learning :** C++, C#, Firebase    
--  **Languages :** JavaScript, Python, Java, HTML/CSS
+-  **Learning :** Svelte, Angular, Vue, Firebase
+-  **Languages :** JavaScript, Python, Java, C#, HTML/CSS
 -  **Technologies :** React, Preact, MongoDB, Express, Flask, and more...
 -  **I'm interested in :** Machine Learning, GameDev, Reverse Engineering
 -  **What I like :** Music, League Of Legends, Memez
