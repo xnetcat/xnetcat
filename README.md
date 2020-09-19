@@ -88,8 +88,12 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=0xNetcat&show_icons=true&count_private=true" align="center" /></div>  
 
-<br/>  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+<br/>
+
+## Spotify
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=peg1fuzvx3ly6fju135cmrkau&redirect=true" target="_blank">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=peg1fuzvx3ly6fju135cmrkau&cover_image=true" />
