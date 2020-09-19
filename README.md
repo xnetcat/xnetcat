@@ -91,7 +91,11 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=em44nj157exf8aomnvqkflor2&cover_image=true" /></div>  
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=peg1fuzvx3ly6fju135cmrkau&redirect=true" target="_blank">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=em44nj157exf8aomnvqkflor2&cover_image=true" />
+  </a>
+</div>  
 
 <br/>  
 
