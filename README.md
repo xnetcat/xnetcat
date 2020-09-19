@@ -9,7 +9,7 @@ Hi, I'm Jakub, a passionate self-taught developer from Poland.
 
 ### About
 
--  **Learning :** Svelte, Angular, Vue, Firebase
+-  **Learning :** Svelte, Vue, GraphQL, Firebase
 -  **Languages :** JavaScript, Python, Java, C#, HTML/CSS
 -  **Technologies :** React, Preact, MongoDB, Express, Flask, and more...
 -  **I'm interested in :** Machine Learning, GameDev, Reverse Engineering
