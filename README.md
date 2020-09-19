@@ -1,9 +1,9 @@
-### [netcatt](https://github.com/netcatt)
+### [netcatt](https://github.com/0xNetcat)
 
 Hi, I'm Jakub, a passionate self-taught developer from Poland. 
 
-![netcatt's github stats](https://github-readme-stats.vercel.app/api?username=netcatt&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netcatt&layout=compact)
+![netcatt's github stats](https://github-readme-stats.vercel.app/api?username=0xNetcat&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNetcat&layout=compact)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -18,4 +18,4 @@ Hi, I'm Jakub, a passionate self-taught developer from Poland.
 ### Reach me:
 - Discord: netcat#6969
 - Email: j4kub.kko7@gmail.com
-- Twitter: netcat__
+- Twitter: 0xNetcat
