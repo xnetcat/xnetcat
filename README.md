@@ -91,7 +91,7 @@
 
 <br/>  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=peg1fuzvx3ly6fju135cmrkau&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=peg1fuzvx3ly6fju135cmrkau&redirect=true) 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=em44nj157exf8aomnvqkflor2&cover_image=true" /></div>  
 
 <br/>  
 
