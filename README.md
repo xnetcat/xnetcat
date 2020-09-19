@@ -89,6 +89,77 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=0xNetcat&show_icons=true&count_private=true" align="center" /></div>  
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22312%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 117 Contributions in the Year 2020
+ > 
+> 📦 1.2 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 9 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.49% 
+🌆 Daytime    57 commits     █████████████░░░░░░░░░░░░   53.77% 
+🌃 Evening    23 commits     █████░░░░░░░░░░░░░░░░░░░░   21.7% 
+🌙 Night      17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.04%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83% 
+Tuesday      15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
+Wednesday    18 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
+Thursday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83% 
+Friday       33 commits     ███████░░░░░░░░░░░░░░░░░░   31.13% 
+Saturday     28 commits     ██████░░░░░░░░░░░░░░░░░░░   26.42% 
+Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+JavaScript               4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+Java                     1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Shell                    1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/0xNetcat/0xNetcat/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <br/>
