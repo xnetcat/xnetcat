@@ -173,6 +173,19 @@ Jupyter Notebook         1 repos             ██░░░░░░░░░�
 </a>
 </div> 
 
+## Donate
+<div align="center">
+<a href="bitcoin:bc1qj4ptz4zps0xs4cjfyuz655aymya6spy99vn72vhjwuny6xfdergqercxrl?message=0xNetcat&time=1600609346" target="_blank">
+<img src=https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white alt=bitcoin style="margin-bottom: 5px;" />
+</a>
+<a href="https://ko-fi.com/0xnetcat" target="_blank">
+<img src=https://img.shields.io/badge/cofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white alt=kofi style="margin-bottom: 5px;" />
+</a>
+<a href="https:/paypal.me/kko7" target="_blank">
+<img src=https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white alt=paypal style="margin-bottom: 5px;" />
+</a>
+</div>
+
 <br/>
 
 <div align="center">
