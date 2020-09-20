@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/0xNetcat?tab=repositories](https://github.com/0xNetcat?tab=repositories)
 
-- 💬 Ask me about **python automation**
+- 💬 Ask me about **automation with python**
 
 - 📫 How to reach me **discord: netcat#2586**
 
