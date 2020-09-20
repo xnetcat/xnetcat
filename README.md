@@ -44,7 +44,6 @@
 </div></td></tr></table> 
 
 ## Skills I want to learn
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Languages   
