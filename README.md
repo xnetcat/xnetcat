@@ -152,7 +152,7 @@ Jupyter Notebook         1 repos             ██░░░░░░░░░�
 <a href="https://stackoverflow.com/users/9802624/0xnetcat" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https:/gitlab.com/0xNetcat" target="_blank">
+<a href="https:/gitlab.com" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="https://open.spotify.com/user/peg1fuzvx3ly6fju135cmrkau?si=RM4_x2VRTI2V8FCGZYyoGA" target="_blank">
