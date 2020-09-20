@@ -131,8 +131,21 @@ Jupyter Notebook         1 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+## Contact
+<div align="center">
+<a href="mailto:0xNetcat@pm.me" target="_blank">
+<img src=https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white alt=protonmail style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:j4kub.kko7@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://facebook.com/0xNetcat" target="_blank">
+<img src=https://img.shields.io/badge/facebook-4267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<img src=https://img.shields.io/badge/netcat%232586-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</div>  
 
-## Connect with me  
+## Social
 <div align="center">
 <a href="https://github.com/0xNetcat" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -151,8 +164,11 @@ Jupyter Notebook         1 repos             ██░░░░░░░░░�
 </a>
 <a href="https://stackoverflow.com/users/9802624/0xnetcat" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a>
+<a href="https:/gitlab.com/0xNetcat" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+</div> 
 
 <br/>
 
