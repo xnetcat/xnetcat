@@ -168,14 +168,14 @@ Jupyter Notebook         1 repos             ██░░░░░░░░░�
 <a href="https:/gitlab.com/0xNetcat" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
+<a href="https://open.spotify.com/user/peg1fuzvx3ly6fju135cmrkau?si=RM4_x2VRTI2V8FCGZYyoGA" target="_blank">
+<img src=https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
+</a>
 </div> 
 
 <br/>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/peg1fuzvx3ly6fju135cmrkau?si=RM4_x2VRTI2V8FCGZYyoGA" target="_blank">
-  <img src=https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
-  </a>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=peg1fuzvx3ly6fju135cmrkau&redirect=true" target="_blank">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=peg1fuzvx3ly6fju135cmrkau&cover_image=true" />
   </a>
