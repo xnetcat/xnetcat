@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [League Client Enhancer](https://github.com/0xNetcat/league-client-enhancer)
 
-- 👨‍💻 All of my projects are available at [https://github.com/0xNetcat?tab=repositories](https://github.com/0xNetcat?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/0xNetcat?tab=repositories)
 
 - 💬 Ask me about **automation with python**
 
