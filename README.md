@@ -60,11 +60,11 @@
   
 ## GitHub Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-156637%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-157555%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 117 Contributions in the Year 2020
+> 🏆 120 Contributions in the Year 2020
  > 
 > 📦 1.2 kB Used in Github's Storage 
  > 
