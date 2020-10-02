@@ -223,7 +223,7 @@ Jupyter Notebook         1 repos             ██░░░░░░░░░�
   <a href="https://ko-fi.com/0xnetcat" target="_blank">
     <img src=https://img.shields.io/badge/kofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white alt=kofi style="margin-bottom: 5px;" />
   </a>
-  <a href="https:/paypal.me/kko7" target="_blank">
+  <a href="https://paypal.me/kko7" target="_blank">
     <img src=https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white alt=paypal style="margin-bottom: 5px;" />
   </a>
 </div>
