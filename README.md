@@ -91,7 +91,7 @@
   
 ## GitHub Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136894%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-160996%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -134,20 +134,16 @@ Sunday       26 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Dart                     10 mins             ██████████████░░░░░░░░░░░   57.94% 
-Java                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
-XML                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.72% 
-Groovy                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.79%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-myapp                    18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
