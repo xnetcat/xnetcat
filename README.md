@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/0xNetcat?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/xNetcat?tab=repositories)
 
 - 💬 Ask me about **python, nodeJS**
 
@@ -169,25 +169,25 @@ Jupyter Notebook         1 repos             ██░░░░░░░░░�
 ## Social
 
 <div align="center">
-  <a href="https://github.com/0xNetcat" target="_blank">
+  <a href="https://github.com/xNetcat" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://twitter.com/0xNetcat" target="_blank">
+  <a href="https://twitter.com/xNetcat" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
-  <a href="https://dev.to/0xnetcat" target="_blank">
+  <a href="https://dev.to/xnetcat" target="_blank">
     <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.facebook.com/0xNetcat" target="_blank">
+  <a href="https://www.facebook.com/xNetcat" target="_blank">
     <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
-  <a href="https://instagram.com/0xNetcat" target="_blank">
+  <a href="https://instagram.com/xNetcat" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
   <a href="https://stackoverflow.com/users/9802624/0xnetcat" target="_blank">
     <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
   </a>
-  <a href="https://gitlab.com/0xNetcat" target="_blank">
+  <a href="https://gitlab.com/xNetcat" target="_blank">
     <img src=https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
   </a>
   <a href="https://open.spotify.com/user/peg1fuzvx3ly6fju135cmrkau?si=RM4_x2VRTI2V8FCGZYyoGA" target="_blank">
@@ -198,13 +198,13 @@ Jupyter Notebook         1 repos             ██░░░░░░░░░�
 ## Contact
 
 <div align="center">
-  <a href="mailto:0xNetcat@pm.me" target="_blank">
+  <a href="mailto:xNetcat@pm.me" target="_blank">
     <img src=https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white alt=protonmail style="margin-bottom: 5px;" />
   </a>
   <a href="mailto:j4kub.kko7@gmail.com" target="_blank">
     <img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   </a>
-  <a href="https://facebook.com/0xNetcat" target="_blank">
+  <a href="https://facebook.com/xNetcat" target="_blank">
     <img src=https://img.shields.io/badge/facebook-4267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
   <img src=https://img.shields.io/badge/netcat%232586-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
@@ -213,7 +213,7 @@ Jupyter Notebook         1 repos             ██░░░░░░░░░�
 ## Donate
 
 <div align="center">
-  <a href="bitcoin:bc1qj4ptz4zps0xs4cjfyuz655aymya6spy99vn72vhjwuny6xfdergqercxrl?message=0xNetcat&time=1600609346" target="_blank">
+  <a href="bitcoin:bc1qj4ptz4zps0xs4cjfyuz655aymya6spy99vn72vhjwuny6xfdergqercxrl?message=xNetcat&time=1600609346" target="_blank">
     <img src=https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white alt=bitcoin style="margin-bottom: 5px;" />
   </a>
   <a href="https://ko-fi.com/0xnetcat" target="_blank">
