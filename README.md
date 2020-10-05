@@ -5,7 +5,7 @@
 
 ### <div align="center">Hi, I'm Jakub, a passionate self-taught developer from Poland.</div>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust, Dart, Flutter**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/xNetcat?tab=repositories)
 
