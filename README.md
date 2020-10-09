@@ -90,8 +90,14 @@
 <br/>  
   
 ## GitHub Stats
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-185698%20lines%20of%20code-blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xNetcat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![xNetcat's github stats](https://github-readme-stats.vercel.app/api?username=xNetcat&show_icons=true)
+
+<br />
+<details>
+  <summary>More stats</summary>
+  <!--START_SECTION:waka-->
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-185698%20lines%20of%20code-blue" />
 
 **🐱 My Github Data** 
 
@@ -170,6 +176,7 @@ Jupyter Notebook         1 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
 
 ## Social
 
