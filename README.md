@@ -91,17 +91,17 @@
   
 ## GitHub Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136902%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-171663%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 204 Contributions in the Year 2020
+> 🏆 203 Contributions in the Year 2020
  > 
 > 📦 1.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 12 Public Repositories
+> 📜 11 Public Repositories
  > 
 > 🔑 2 Private Repositories 
 
