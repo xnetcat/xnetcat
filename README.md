@@ -97,7 +97,7 @@
 <details>
   <summary>More stats</summary>
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-644059%20lines%20of%20code-blue)
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-644059%20lines%20of%20code-blue" alt="Lines of code"/>
 
 **🐱 My Github Data** 
 
@@ -231,7 +231,7 @@ Jupyter Notebook         1 repos             ██░░░░░░░░░�
   <a href="https://paypal.me/kko7" target="_blank">
     <img src=https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white alt=paypal style="margin-bottom: 5px;" />
   </a>
-  <a href="bitcoin:bc1qj4ptz4zps0xs4cjfyuz655aymya6spy99vn72vhjwuny6xfdergqercxrl?message=xNetcat&time=1600609346" target="_blank">
+  <a href="bitcoin://bc1qj4ptz4zps0xs4cjfyuz655aymya6spy99vn72vhjwuny6xfdergqercxrl?message=xNetcat&time=1600609346" target="_blank">
     <img src=https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white alt=bitcoin style="margin-bottom: 5px;" />
   </a>
 </div>
