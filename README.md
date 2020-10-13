@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 -->
+-<!-- markdownlint-disable MD033 -->
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="25%" width="50%" />
 </div>
@@ -89,7 +89,7 @@
 
 <br/>  
 
-## Currently I am working on:
+## Currently I am working on
 [![Medicorum](https://github-readme-stats.vercel.app/api/pin/?username=xNetcat&repo=Medicorum)](https://github.com/xNetcat/Medicorum)
 [![sigsa](https://github-readme-stats.vercel.app/api/pin/?username=xNetcat&repo=sigsa)](https://github.com/xNetcat/sigsa)
 [![xNectat](https://github-readme-stats.vercel.app/api/pin/?username=xNetcat&repo=xNetcat)](https://github.com/xNetcat/xNetcat)
