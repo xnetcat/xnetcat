@@ -105,7 +105,7 @@
   <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 254 Contributions in the Year 2020
+> 🏆 275 Contributions in the Year 2020
  > 
 > 📦 2.1 kB Used in Github's Storage 
  > 
