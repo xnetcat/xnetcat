@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **discord: netcat#2586**
 
-- ⚡ Fun fact **I've spent over 3000h in League Of Legends**
-
 <br/>
 
 ## My Skill Set  
