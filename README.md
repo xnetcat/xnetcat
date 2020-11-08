@@ -1,4 +1,4 @@
--<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 -->
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="25%" width="50%" />
 </div>
