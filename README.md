@@ -91,7 +91,7 @@
 [![Medicorum](https://github-readme-stats.vercel.app/api/pin/?username=xNetcat&repo=Medicorum)](https://github.com/xNetcat/Medicorum)
 [![sigsa](https://github-readme-stats.vercel.app/api/pin/?username=xNetcat&repo=sigsa)](https://github.com/xNetcat/sigsa)
 [![xNectat](https://github-readme-stats.vercel.app/api/pin/?username=xNetcat&repo=xNetcat)](https://github.com/xNetcat/xNetcat)
-[![league-tui](https://github-readme-stats.vercel.app/api/pin/?username=xNetcat&repo=league-tui)](https://github.com/xNetcat/league-tui)
+[![prebot](https://github-readme-stats.vercel.app/api/pin/?username=xNetcat&repo=prebot)](https://github.com/xNetcat/prebot)
   
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xNetcat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
