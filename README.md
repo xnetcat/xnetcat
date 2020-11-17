@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/xNetcat?tab=repositories)
 
-- 💬 Ask me about **python, nodeJS**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **discord: netcat#2586**
 
