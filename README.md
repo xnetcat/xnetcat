@@ -109,7 +109,7 @@
  > 
 > 📜 15 Public Repositories 
  > 
-15 Private Repository 
+> 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
