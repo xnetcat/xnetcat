@@ -101,15 +101,15 @@
   <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 351 Contributions in the Year 2020
+> 🏆 355 Contributions in the Year 2020
  > 
-> 📦 2.9 kB Used in Github's Storage 
+> 📦 6.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
