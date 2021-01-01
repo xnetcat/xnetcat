@@ -191,7 +191,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
   <a href="https://www.instagram.com/eboy.kubus.uwu" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
-  <a href="https://stackoverflow.com/users/9802624/0xnetcat" target="_blank">
+  <a href="https://stackoverflow.com/users/9802624/xnetcat" target="_blank">
     <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
   </a>
   <a href="https://gitlab.com/xNetcat" target="_blank">
@@ -214,13 +214,12 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
   <a href="https://facebook.com/xNetcat" target="_blank">
     <img src=https://img.shields.io/badge/facebook-4267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
-  <img src=https://img.shields.io/badge/netcat%232586-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </div>
 
 ## Donate
 
 <div align="center">
-  <a href="https://ko-fi.com/0xnetcat" target="_blank">
+  <a href="https://ko-fi.com/xnetcat" target="_blank">
     <img src=https://img.shields.io/badge/kofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white alt=kofi style="margin-bottom: 5px;" />
   </a>
   <a href="https://paypal.me/kko7" target="_blank">
