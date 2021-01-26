@@ -1,7 +1,7 @@
 # Hi there
 
 Welcome to my profile!  
-I am Jakub, full-stack developer from Poland
+I am Jakub, full-stack developer from Poland. My favorite technologies right now are: React.js, JavaScript, Node.js, Python, Flask
 
 - 🌱 I’m currently learning: **Elixir, Rust, AI, ML**
 
@@ -14,6 +14,9 @@ I am Jakub, full-stack developer from Poland
 - 👨‍💻 All of my projects are available at <https://github.com/xnetcat>
 
 - 🔭 I’m currently working on: **my side projects**
+
+Interested in hiring me?  
+Get in touch j4kub.kko7@gmail.com
 
 ## Languages
 
