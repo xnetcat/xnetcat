@@ -18,6 +18,12 @@ I am Jakub, full-stack developer from Poland. My favorite technologies right now
 Interested in hiring me?  
 Get in touch j4kub.kko7@gmail.com
 
+<details>
+  <summary style="font-size:1.25em"><strong>Coding stats</strong></summary><br>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
