@@ -33,20 +33,20 @@ Get in touch j4kub.kko7@gmail.com
   <!--START_SECTION:waka-->
 <div class="waka-stats"><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 52 Contributions in the Year 2021
-<li>📦 7.0 kB Used in Github's Storage
+<li>🏆 56 Contributions in the Year 2021
+<li>📦 7.1 kB Used in Github's Storage
 <li>💼 Opted to Hire
-<li>📜 14 Public Repositories
-<li>🔑 4 Private Repositories
+<li>📜 15 Public Repositories
+<li>🔑 3 Private Repositories
 </ul><pre lang="text">
 <strong>📅 I'm Most Productive on Friday</strong>
-<code>Monday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.61% 
-Tuesday      37 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
-Wednesday    27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
-Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.14% 
-Friday       57 commits     ██████░░░░░░░░░░░░░░░░░░░   26.64% 
-Saturday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
-Sunday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.02%</code>
+<code>Monday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.58% 
+Tuesday      37 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
+Wednesday    27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
+Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
+Friday       57 commits     ██████░░░░░░░░░░░░░░░░░░░   26.51% 
+Saturday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
+Sunday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.42%</code>
 </pre>
 
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
