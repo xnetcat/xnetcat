@@ -142,7 +142,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 [![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/xnetcat)
 [![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eboy.kubus.uwu)
 [![spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/peg1fuzvx3ly6fju135cmrkau?si=RM4_x2VRTI2V8FCGZYyoGA)
-[![duolingo](https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/JakubKot4)
+[![duolingo](https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/JakubKot2)
 
 ## Forums
 
