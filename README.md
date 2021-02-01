@@ -33,11 +33,11 @@ Get in touch j4kub.kko7@gmail.com
   <!--START_SECTION:waka-->
 <div class="waka-stats"><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 56 Contributions in the Year 2021
-<li>📦 7.1 kB Used in Github's Storage
+<li>🏆 60 Contributions in the Year 2021
+<li>📦 7.3 kB Used in Github's Storage
 <li>💼 Opted to Hire
 <li>📜 15 Public Repositories
-<li>🔑 3 Private Repositories
+<li>🔑 4 Private Repositories
 </ul><pre lang="text">
 <strong>📅 I'm Most Productive on Friday</strong>
 <code>Monday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.58% 
@@ -64,11 +64,11 @@ obs-selenium-webpage     2 hrs 3 mins        ██░░░░░░░░░�
 obs-onlyfans-selenium    1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.38%‍‍💻   Operating System: 
 Windows                  27 hrs 32 mins      █████████████████████████   100.0%</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
-<code>Python                   6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%</code>
+<code>Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%</code>
 </pre>
 
 **Timeline**
