@@ -33,10 +33,10 @@ Get in touch j4kub.kko7@gmail.com
   <!--START_SECTION:waka-->
 <div class="waka-stats"><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 86 Contributions in the Year 2021
+<li>🏆 89 Contributions in the Year 2021
 <li>📦 7.4 kB Used in Github's Storage
 <li>💼 Opted to Hire
-<li>📜 15 Public Repositories
+<li>📜 16 Public Repositories
 <li>🔑 4 Private Repositories
 </ul><pre lang="text">
 <strong>📅 I'm Most Productive on Friday</strong>
