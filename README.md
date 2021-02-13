@@ -16,7 +16,7 @@ I am Jakub, full-stack developer from Poland. My favorite technologies right now
 - 🔭 I’m currently working on: **my side projects**
 
 Interested in hiring me?  
-Get in touch j4kub.kko7@gmail.com
+Get in touch: **xnetcat#8144**
 
 <details>
   <summary style="font-size:1.25em"><strong>GitHub Stats</strong></summary>
@@ -79,7 +79,10 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-## Languages
+<details>
+  <summary style="font-size:1.25em"><strong>My skills</strong></summary>
+ 
+ ## Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -136,17 +139,16 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+</details>
 
-## Social
-
+<details>
+  <summary style="font-size:1.25em"><strong>Social</strong></summary>
+  
 [![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xnetcat)
 [![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/xnetcat)
 [![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eboy.kubus.uwu)
 [![spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/peg1fuzvx3ly6fju135cmrkau?si=RM4_x2VRTI2V8FCGZYyoGA)
 [![duolingo](https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/JakubKot2)
-
-## Forums
-
 [![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/xnetcat)
 [![devto](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/xnetcat)
 [![gitlab](https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/xnetcat)
@@ -166,6 +168,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 [![protonmail](https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:xnetcat@pm.me)
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:j4kub.kko7@gmail.com)
 [![facebook](https://img.shields.io/badge/facebook-4267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/xnetcat)
+![discord](https://img.shields.io/badge/xnetcat%238144-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
 
 ## Donate
 
@@ -173,3 +176,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 [![paypal](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kko7)
 [![bitcoin](https://img.shields.io/badge/btc-1Lu8aWN2FjZJGnJCKzrPpapsERTDLjMsyW-black?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:1Lu8aWN2FjZJGnJCKzrPpapsERTDLjMsyW)
 [![ethereum](https://img.shields.io/badge/eth-0x6c212696EA6f385E77Dd425341e40c6aBa437E05-black?style=for-the-badge&logo=ethereum&logoColor=white)](bitcoin:0x6c212696EA6f385E77Dd425341e40c6aBa437E05)
+</details>
+
+[![currently listening](https://spotify-github-profile.vercel.app/api/view?uid=peg1fuzvx3ly6fju135cmrkau&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=peg1fuzvx3ly6fju135cmrkau&redirect=true)
+
