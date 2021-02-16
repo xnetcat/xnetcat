@@ -142,7 +142,9 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 </details>
 
 <details>
-  <summary style="font-size:1.25em"><strong>Social</strong></summary>
+  <summary style="font-size:1.25em"><strong>Other</strong></summary>
+  
+## Social
   
 [![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xnetcat)
 [![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/xnetcat)
