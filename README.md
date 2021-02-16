@@ -178,5 +178,3 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 [![ethereum](https://img.shields.io/badge/eth-0x6c212696EA6f385E77Dd425341e40c6aBa437E05-black?style=for-the-badge&logo=ethereum&logoColor=white)](bitcoin:0x6c212696EA6f385E77Dd425341e40c6aBa437E05)
 </details>
 
-[![currently listening](https://spotify-github-profile.vercel.app/api/view?uid=peg1fuzvx3ly6fju135cmrkau&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=peg1fuzvx3ly6fju135cmrkau&redirect=true)
-
