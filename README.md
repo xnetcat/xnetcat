@@ -7,7 +7,7 @@ I am Jakub, full-stack developer from Poland. My favorite technologies right now
 
 - 💬 Ask me about: **anything related to Javascript/Typescript/Python**
 
-- 📫 How to reach me: **take a look below 👇**
+- 📫 How to reach me: **take a look below**
 
 - 👯 I’m looking to collaborate on: **anything free and open source**
 
