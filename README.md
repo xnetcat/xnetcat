@@ -148,34 +148,30 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ## Social
   
 [![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xnetcat)
-[![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/xnetcat)
-[![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eboy.kubus.uwu)
+[![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xnetcat)
 [![spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/peg1fuzvx3ly6fju135cmrkau?si=RM4_x2VRTI2V8FCGZYyoGA)
-[![duolingo](https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/JakubKot2)
+[![duolingo](https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Jakub79189)
 [![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/xnetcat)
 [![devto](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/xnetcat)
 [![gitlab](https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/xnetcat)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9802624/xnetcat)
 [![XDA Developers](https://img.shields.io/badge/XDA-Developers%20-%23AC6E2F.svg?&style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://forum.xda-developers.com/m/xnetcat.11357271/)
-[![Reddit](https://img.shields.io/badge/Reddit%20-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/ilvjs)
 
 ## Gaming
 
-[![Steam](https://img.shields.io/badge/steam%20-xnetcat-%232088FF.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/xNetcat)
-![Epic Games](https://img.shields.io/badge/epic%20games-xnetcat-%232088FF.svg?&style=for-the-badge&logo=epic%20games&logoColor=white)
+[![Steam](https://img.shields.io/badge/steam%20-eboy%20kubuś%20uwu-%232088FF.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/xNetcat)
+![Epic Games](https://img.shields.io/badge/epic%20games-eboy.kubus.uwu-%232088FF.svg?&style=for-the-badge&logo=epic%20games&logoColor=white)
 ![Ubisoft Connect](https://img.shields.io/badge/Ubisoft%20Connect-xnetcat-%232088FF.svg?&style=for-the-badge&logo=ubisoft&logoColor=white)
 ![Riot Account](https://img.shields.io/badge/Riot%20Games-EBOY%20Kubuś%20UwU%20%23EUNE-%232088FF.svg?&style=for-the-badge&logo=riot-games&logoColor=white)
 
 ## Contact
 
 [![protonmail](https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:xnetcat@pm.me)
-[![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:j4kub.kko7@gmail.com)
-[![facebook](https://img.shields.io/badge/facebook-4267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/xnetcat)
+[![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:xnetcat.dev@gmail.com)
 ![discord](https://img.shields.io/badge/xnetcat%238144-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
 
 ## Donate
 
-[![kofi](https://img.shields.io/badge/kofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/xnetcat)
 [![paypal](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kko7)
 [![bitcoin](https://img.shields.io/badge/btc-1Lu8aWN2FjZJGnJCKzrPpapsERTDLjMsyW-black?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:1Lu8aWN2FjZJGnJCKzrPpapsERTDLjMsyW)
 [![ethereum](https://img.shields.io/badge/eth-0x6c212696EA6f385E77Dd425341e40c6aBa437E05-black?style=for-the-badge&logo=ethereum&logoColor=white)](bitcoin:0x6c212696EA6f385E77Dd425341e40c6aBa437E05)
