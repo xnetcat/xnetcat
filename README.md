@@ -5,7 +5,7 @@ I am Jakub, full-stack developer from Poland. My favorite technologies right now
 
 - 🌱 I’m currently learning: **Elixir, Rust, AI, ML**
 
-- 💬 Ask me about: **anything related to Javascript/Typescript/Python**
+- 💬 Ask me about: **anything**
 
 - 📫 How to reach me: **take a look below**
 
