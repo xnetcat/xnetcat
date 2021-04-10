@@ -33,10 +33,10 @@ Get in touch: **xnetcat#8144**
   <!--START_SECTION:waka-->
 <div class="waka-stats"><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 250 Contributions in the Year 2021
-<li>📦 110.2 kB Used in Github's Storage
+<li>🏆 139 Contributions in the Year 2021
+<li>📦 21.4 kB Used in Github's Storage
 <li>💼 Opted to Hire
-<li>📜 22 Public Repositories
+<li>📜 21 Public Repositories
 <li>🔑 4 Private Repositories
 </ul><pre lang="text">
 <strong>📅 I'm Most Productive on Friday</strong>
@@ -69,11 +69,11 @@ Unknown Project          2 mins              ░░░░░░░░░░░�
 Linux                    9 hrs 38 mins       ██████████████████████░░░   90.07% 
 Windows                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.93%</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
-<code>Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   31.58% 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%</code>
+<code>Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78% 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%</code>
 </pre>
 
 **Timeline**
