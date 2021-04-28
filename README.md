@@ -33,7 +33,7 @@ Get in touch: **xnetcat#8144**
   <!--START_SECTION:waka-->
 <div class="waka-stats"><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 197 Contributions in the Year 2021
+<li>🏆 218 Contributions in the Year 2021
 <li>📦 34.1 kB Used in Github's Storage
 <li>💼 Opted to Hire
 <li>📜 22 Public Repositories
@@ -61,9 +61,9 @@ No Activity Tracked This Week
 No Activity Tracked This Week</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
 <code>Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78% 
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
 Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%</code>
 </pre>
 
