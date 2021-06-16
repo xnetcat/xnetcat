@@ -33,7 +33,7 @@ Get in touch: **xnetcat#8144**
   <!--START_SECTION:waka-->
 <div class="waka-stats"><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 538 Contributions in the Year 2021
+<li>🏆 537 Contributions in the Year 2021
 <li>📦 61.4 kB Used in Github's Storage
 <li>💼 Opted to Hire
 <li>📜 21 Public Repositories
