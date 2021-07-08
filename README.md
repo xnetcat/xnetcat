@@ -3,17 +3,17 @@
 Welcome to my profile!  
 I am Jakub, full-stack developer from Poland. My favorite technologies right now are: React.js, JavaScript, Node.js, Python, Flask
 
-- 🌱 I’m currently learning: **Elixir, Rust, AI, ML**
+- 🌱 I’m currently learning: **nothing right now :((**
 
 - 💬 Ask me about: **anything**
 
-- 📫 How to reach me: **take a look below**
+- 📫 How to reach me: **xnetcat#8144**
 
 - 👯 I’m looking to collaborate on: **anything free and open source**
 
-- 👨‍💻 All of my projects are available at <https://github.com/xnetcat>
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/xnetcat?tab=repositories)
 
-- 🔭 I’m currently working on: **my side projects**
+- 🔭 I’m currently working on: [spotdl](https://github.com/spotDL/spotify-downloader) and other smaller projects
 
 Interested in hiring me?  
 Get in touch: **xnetcat#8144**
