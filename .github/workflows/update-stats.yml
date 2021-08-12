@@ -21,3 +21,4 @@ jobs:
           SHOW_LOC_CHART: "True"
           SHOW_LINES_OF_CODE: "False"
           LOCALE: "en"
+          IGNORED_REPOS: ${{ secrets.IGNORED_PROJECTS }}
