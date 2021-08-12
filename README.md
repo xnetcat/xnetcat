@@ -1,7 +1,6 @@
-# Hi there
+# Hi, my name is Jakub.
 
-Welcome to my profile!  
-I am Jakub, full-stack developer from Poland. My favorite technologies right now are: React.js, JavaScript, Node.js, Python, Flask
+I am self-taught software developer from Poland. I have used multiple technologies to create various projects ranging from web scraping to web servers. I have a good grasp in every field.
 
 - 🌱 I’m currently learning: **nothing right now :((**
 
