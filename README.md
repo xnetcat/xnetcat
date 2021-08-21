@@ -32,19 +32,19 @@ Get in touch: **xnetcat#8144**
   <!--START_SECTION:waka-->
 <div class="waka-stats"><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 705 Contributions in the Year 2021
-<li>📦 69.0 kB Used in Github's Storage
+<li>🏆 720 Contributions in the Year 2021
+<li>📦 71.3 kB Used in Github's Storage
 <li>💼 Opted to Hire
 <li>📜 22 Public Repositories
 <li>🔑 7 Private Repositories
 </ul><pre lang="text">
 <strong>📅 I'm Most Productive on Thursday</strong>
 <code>Monday       49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.85% 
-Tuesday      90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
+Tuesday      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
 Wednesday    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
 Thursday     133 commits    █████░░░░░░░░░░░░░░░░░░░░   21.31% 
-Friday       122 commits    █████░░░░░░░░░░░░░░░░░░░░   19.55% 
-Saturday     76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
+Friday       133 commits    █████░░░░░░░░░░░░░░░░░░░░   21.31% 
+Saturday     80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
 Sunday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34%</code>
 </pre>
 
