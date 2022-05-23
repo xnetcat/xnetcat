@@ -33,7 +33,7 @@ Get in touch: **xnetcat#8144**
 <div class="waka-stats"><strong>🐱 My Github Data</strong>
 <ul>
 <li>🏆 461 Contributions in the Year 2022
-<li>📦 64.6 kB Used in Github's Storage
+<li>📦 64.5 kB Used in Github's Storage
 <li>💼 Opted to Hire
 <li>📜 21 Public Repositories
 <li>🔑 1 Private Repository
@@ -51,13 +51,14 @@ Sunday       126 commits    ████░░░░░░░░░░░░░�
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
 <code>⌚︎  Time Zone: Europe/Warsaw
 💬︎  Programming Languages: 
-Python                   2 hrs 21 mins       █████████████████████████   100.0%
+Python                   2 hrs 11 mins       █████████████████████████   99.87% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 🔥  Editors: 
-VS Code                  2 hrs 21 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 11 mins       █████████████████████████   100.0%
 🐱‍‍💻   Projects: 
-spotdl-v4                2 hrs 21 mins       █████████████████████████   100.0%
+spotdl-v4                2 hrs 11 mins       █████████████████████████   100.0%
 ‍‍💻   Operating System: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.0%</code></pre><pre lang="text">
+Windows                  2 hrs 11 mins       █████████████████████████   100.0%</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
 <code>Python                   9 repos             █████████████░░░░░░░░░░░░   52.94% 
 JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
