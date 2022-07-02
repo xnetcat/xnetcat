@@ -51,15 +51,13 @@ Sunday       118 commits    ████░░░░░░░░░░░░░�
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
 <code>⌚︎  Time Zone: Europe/Warsaw
 💬︎  Programming Languages: 
-Python                   48 mins             ███████████████░░░░░░░░░░   63.27% 
-YAML                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.49%
+No Activity Tracked This Week
 🔥  Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 🐱‍‍💻   Projects: 
-spotify-downloader       1 hr 17 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 ‍‍💻   Operating System: 
-Linux                    1 hr 17 mins        █████████████████████████   100.0%</code></pre><pre lang="text">
+No Activity Tracked This Week</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
 <code>Python                   10 repos            ██████████████░░░░░░░░░░░   55.56% 
 JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
