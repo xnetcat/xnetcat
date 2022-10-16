@@ -33,7 +33,7 @@ Get in touch: **xnetcat#8144**
 <div class="waka-stats"><strong>🐱 My Github Data</strong>
 <ul>
 <li>🏆 935 Contributions in the Year 2022
-<li>📦 65.0 kB Used in Github's Storage
+<li>📦 65.1 kB Used in Github's Storage
 <li>💼 Opted to Hire
 <li>📜 21 Public Repositories
 <li>🔑 1 Private Repository
