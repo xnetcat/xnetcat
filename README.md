@@ -51,13 +51,13 @@ Sunday       142 commits    ████░░░░░░░░░░░░░�
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
 <code>⌚︎  Time Zone: Europe/Warsaw
 💬︎  Programming Languages: 
-Python                   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 🔥  Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 🐱‍‍💻   Projects: 
-freelancer-josep         0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 ‍‍💻   Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%</code></pre><pre lang="text">
+No Activity Tracked This Week</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
 <code>Python                   11 repos            █████████████░░░░░░░░░░░░   55.0% 
 JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
