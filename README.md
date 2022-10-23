@@ -32,32 +32,33 @@ Get in touch: **xnetcat#8144**
   <!--START_SECTION:waka-->
 <div class="waka-stats"><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 935 Contributions in the Year 2022
+<li>🏆 944 Contributions in the Year 2022
 <li>📦 65.0 kB Used in Github's Storage
 <li>💼 Opted to Hire
 <li>📜 21 Public Repositories
 <li>🔑 1 Private Repository
 </ul><pre lang="text">
 <strong>📅 I'm Most Productive on Sunday</strong>
-<code>Monday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
+<code>Monday       64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
 Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
 Wednesday    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
 Thursday     113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
 Friday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
-Saturday     124 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
-Sunday       142 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.43%</code>
+Saturday     127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.37% 
+Sunday       147 commits    █████░░░░░░░░░░░░░░░░░░░░   20.11%</code>
 </pre>
 
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
 <code>⌚︎  Time Zone: Europe/Warsaw
 💬︎  Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 42 mins        ████████████████████████░   97.72% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
 🔥  Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 45 mins        █████████████████████████   100.0%
 🐱‍‍💻   Projects: 
-No Activity Tracked This Week
+spotify-downloader       1 hr 45 mins        █████████████████████████   100.0%
 ‍‍💻   Operating System: 
-No Activity Tracked This Week</code></pre><pre lang="text">
+Windows                  1 hr 45 mins        █████████████████████████   100.0%</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
 <code>Python                   11 repos            █████████████░░░░░░░░░░░░   55.0% 
 JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
