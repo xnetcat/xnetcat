@@ -32,10 +32,10 @@ Get in touch: **xnetcat#8144**
   <!--START_SECTION:waka-->
 <div class="waka-stats"><strong>🐱 My Github Data</strong>
 <ul>
-<li>🏆 967 Contributions in the Year 2022
-<li>📦 65.0 kB Used in Github's Storage
+<li>🏆 966 Contributions in the Year 2022
+<li>📦 64.6 kB Used in Github's Storage
 <li>💼 Opted to Hire
-<li>📜 21 Public Repositories
+<li>📜 19 Public Repositories
 <li>🔑 1 Private Repository
 </ul><pre lang="text">
 <strong>📅 I'm Most Productive on Sunday</strong>
@@ -67,11 +67,11 @@ asyncio                  0 secs              ░░░░░░░░░░░�
 ‍‍💻   Operating System: 
 Windows                  11 hrs 14 mins      █████████████████████████   100.0%</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
-<code>Python                   11 repos            █████████████░░░░░░░░░░░░   55.0% 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%</code>
+<code>Python                   10 repos            █████████████░░░░░░░░░░░░   52.63% 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%</code>
 </pre>
 
 **Timeline**
