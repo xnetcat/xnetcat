@@ -1,21 +1,14 @@
 # Hi, my name is Jakub.
 
-I am self-taught software developer from Poland. I have used multiple technologies to create various projects ranging from web scraping to web servers. I have a good grasp in every field.
+I am self-taught software developer from Poland.
 
-- 🌱 I’m currently learning: **nothing right now :((**
-
-- 💬 Ask me about: **anything**
+- 🌱 I’m currently learning: **Assembly, C, Rust, ML**
 
 - 📫 How to reach me: **xnetcat#8144**
 
-- 👯 I’m looking to collaborate on: **anything free and open source**
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/xnetcat?tab=repositories)
 
-- 🔭 I’m currently working on: [spotdl](https://github.com/spotDL/spotify-downloader) and other smaller projects
-
-Interested in hiring me?  
-Get in touch: **xnetcat#8144**
+- 🔭 I’m currently working on: [spotdl](https://github.com/spotDL/spotify-downloader)
 
 <details>
   <summary style="font-size:1.25em"><strong>GitHub Stats</strong></summary>
