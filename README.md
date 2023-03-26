@@ -44,13 +44,16 @@ Sunday       97 commits     ████░░░░░░░░░░░░░�
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
 <code>⌚︎  Time Zone: Europe/Warsaw
 💬︎  Programming Languages: 
-No Activity Tracked This Week
+Python                   33 mins             ███████████████████░░░░░░   77.56% 
+Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
 🔥  Editors: 
-No Activity Tracked This Week
+VS Code                  43 mins             █████████████████████████   100.0%
 🐱‍‍💻   Projects: 
-No Activity Tracked This Week
+spotify-downloader       43 mins             █████████████████████████   100.0%
 ‍‍💻   Operating System: 
-No Activity Tracked This Week</code></pre><pre lang="text">
+WSL                      43 mins             █████████████████████████   100.0%</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
 <code>Python                   10 repos            █████████████░░░░░░░░░░░░   52.63% 
 JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
@@ -64,7 +67,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/xnetcat/xnetcat/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/03/2023 01:36:17 UTC
+ Last Updated on 26/03/2023 01:45:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
