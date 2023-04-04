@@ -26,7 +26,7 @@ I am self-taught software developer from Poland.
 <div class="waka-stats"><strong>🐱 My GitHub Data</strong>
 <ul>
 <li>🏆 236 Contributions in the Year 2023
-<li>📦 75.2 kB Used in GitHub's Storage
+<li>📦 75.3 kB Used in GitHub's Storage
 <li>💼 Opted to Hire
 <li>📜 17 Public Repositories
 <li>🔑 1 Private Repository
@@ -44,17 +44,13 @@ Sunday       96 commits     ████░░░░░░░░░░░░░�
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
 <code>⌚︎  Time Zone: Europe/Warsaw
 💬︎  Programming Languages: 
-Python                   4 hrs 44 mins       █████████████████████░░░░   85.81% 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+No Activity Tracked This Week
 🔥  Editors: 
-VS Code                  5 hrs 31 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 🐱‍‍💻   Projects: 
-spotify-downloader       5 hrs 31 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 ‍‍💻   Operating System: 
-WSL                      5 hrs 31 mins       █████████████████████████   100.0%</code></pre><pre lang="text">
+No Activity Tracked This Week</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
 <code>Python                   10 repos            █████████████░░░░░░░░░░░░   52.63% 
 JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
@@ -68,7 +64,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/xnetcat/xnetcat/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/04/2023 01:28:21 UTC
+ Last Updated on 04/04/2023 01:39:52 UTC
 <!--END_SECTION:waka-->
 </details>
 
