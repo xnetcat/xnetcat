@@ -10,6 +10,13 @@ I am self-taught software developer from Poland.
 
 - 🔭 I’m currently working on: [spotdl](https://github.com/spotDL/spotify-downloader)
 
+## Donate
+
+[![paypal](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kko7)
+[![kofi](https://img.shields.io/badge/kofi-%23F16061.svg?&style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/xnetcat)
+
+
+
 <details>
   <summary style="font-size:1.25em"><strong>GitHub Stats</strong></summary>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -110,4 +117,3 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![discord](https://img.shields.io/badge/xnetcat%238144-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
 
 </details>
-
