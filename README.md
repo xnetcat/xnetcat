@@ -32,32 +32,37 @@ I am self-taught software developer from Poland.
   <!--START_SECTION:waka-->
 <div class="waka-stats"><strong>🐱 My GitHub Data</strong>
 <ul>
-<li>🏆 236 Contributions in the Year 2023
+<li>🏆 265 Contributions in the Year 2023
 <li>📦 75.3 kB Used in GitHub's Storage
 <li>💼 Opted to Hire
 <li>📜 17 Public Repositories
 <li>🔑 1 Private Repository
 </ul><pre lang="text">
 <strong>📅 I'm Most Productive on Saturday</strong>
-<code>Monday       62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
-Tuesday      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-Wednesday    63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-Thursday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
-Friday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-Saturday     104 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
-Sunday       96 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36%</code>
+<code>Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
+Tuesday      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Wednesday    57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.29% 
+Thursday     84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.16% 
+Friday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
+Saturday     95 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.15% 
+Sunday       90 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25%</code>
 </pre>
 
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
 <code>⌚︎  Time Zone: Europe/Warsaw
 💬︎  Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 49 mins        █████████████████░░░░░░░░   70.73% 
+Markdown                 32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.12% 
+TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 🔥  Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 35 mins       █████████████████████████   100.0%
 🐱‍‍💻   Projects: 
-No Activity Tracked This Week
+spotify-downloader       2 hrs 14 mins       █████████████████████░░░░   86.61% 
+xnetcat                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39%
 ‍‍💻   Operating System: 
-No Activity Tracked This Week</code></pre><pre lang="text">
+Windows                  2 hrs 35 mins       █████████████████████████   100.0%</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
 <code>Python                   10 repos            █████████████░░░░░░░░░░░░   52.63% 
 JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
@@ -71,7 +76,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/xnetcat/xnetcat/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/04/2023 01:29:31 UTC
+ Last Updated on 07/04/2023 01:25:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
