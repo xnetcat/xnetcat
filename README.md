@@ -32,10 +32,10 @@ I am self-taught software developer from Poland.
   <!--START_SECTION:waka-->
 <div class="waka-stats"><strong>🐱 My GitHub Data</strong>
 <ul>
-<li>🏆 368 Contributions in the Year 2023
+<li>🏆 369 Contributions in the Year 2023
 <li>📦 77.1 kB Used in GitHub's Storage
 <li>💼 Opted to Hire
-<li>📜 18 Public Repositories
+<li>📜 19 Public Repositories
 <li>🔑 2 Private Repositories
 </ul><pre lang="text">
 <strong>📅 I'm Most Productive on Monday</strong>
@@ -51,13 +51,20 @@ Sunday       47 commits     ████░░░░░░░░░░░░░�
 <pre lang="text"><strong>📊 This Week I Spent My Time On</strong>
 <code>⌚︎  Time Zone: Europe/Warsaw
 💬︎  Programming Languages: 
-Python                   31 mins             █████████████████████████   100.0%
+Python                   8 hrs 16 mins       ███████████████████████░░   92.04% 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.15% 
+TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 🔥  Editors: 
-VS Code                  31 mins             █████████████████████████   100.0%
+VS Code                  8 hrs 59 mins       █████████████████████████   100.0%
 🐱‍‍💻   Projects: 
-spotify-downloader       31 mins             █████████████████████████   100.0%
+Spotify-Account-Creator  7 hrs 31 mins       █████████████████████░░░░   83.69% 
+modal                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.64% 
+spotify-downloader       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.84% 
+transcriber              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
 ‍‍💻   Operating System: 
-Windows                  31 mins             █████████████████████████   100.0%</code></pre><pre lang="text">
+Windows                  8 hrs 59 mins       █████████████████████████   100.0%</code></pre><pre lang="text">
 <strong>I Mostly Code in Python</strong>
 <code>Python                   11 repos            █████████████░░░░░░░░░░░░   55.0% 
 JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
@@ -71,7 +78,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/xnetcat/xnetcat/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2023 01:44:56 UTC
+ Last Updated on 22/06/2023 01:50:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
